@@ -327,7 +327,7 @@ a{color:inherit;text-decoration:none}
 
 .heroBg{
   /* Single hero photo as background from date till details */
-  background-image:linear-gradient(rgba(255,255,255,.88), rgba(255,255,255,.96)), url('assets/images/photo-1.jpg');
+  background-image:linear-gradient(rgba(255,255,255,.88), rgba(255,255,255,.96)), url('photo-1.jpg');
   background-size:cover;
   background-position:center;
   background-repeat:no-repeat;
@@ -382,7 +382,7 @@ a{color:inherit;text-decoration:none}
 }
 .banner__bg{
   position:absolute; inset:0;
-  background-image:url('assets/images/photo-1.jpg');
+  background-image:url('photo-1.jpg');
   background-size:cover; background-position:center;
   filter:grayscale(1) brightness(.35) contrast(1.05);
   transform:scale(1.08);
